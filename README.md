@@ -1,7 +1,7 @@
 # Johana Sevillano
 
 💻 Apasionada por el desarrollo web, el análisis de datos y la programación  
-🎓 Estudiante de Ingeniería en la Universidad de Antioquia  
+🎓 Estudiante de Ingeniería de Sistemas en la Universidad de Antioquia  
 📍 Medellín, Colombia  
 
 ---
